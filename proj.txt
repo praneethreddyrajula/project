@@ -1,3 +1,5 @@
 This is a project for the company called MAVERIC
 
 New feature added
+
+Another feature added
