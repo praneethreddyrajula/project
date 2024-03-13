@@ -2,6 +2,6 @@ This is a project for the company called MAVERIC
 
 New feature added
 
-Another feature added
+No other feature added
 
 From github
